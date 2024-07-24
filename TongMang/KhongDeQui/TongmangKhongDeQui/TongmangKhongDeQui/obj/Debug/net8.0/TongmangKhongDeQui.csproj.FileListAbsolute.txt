@@ -1,0 +1,14 @@
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\bin\Debug\net8.0\TongmangKhongDeQui.exe
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\bin\Debug\net8.0\TongmangKhongDeQui.deps.json
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\bin\Debug\net8.0\TongmangKhongDeQui.runtimeconfig.json
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\bin\Debug\net8.0\TongmangKhongDeQui.dll
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\bin\Debug\net8.0\TongmangKhongDeQui.pdb
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\obj\Debug\net8.0\TongmangKhongDeQui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\obj\Debug\net8.0\TongmangKhongDeQui.AssemblyInfoInputs.cache
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\obj\Debug\net8.0\TongmangKhongDeQui.AssemblyInfo.cs
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\obj\Debug\net8.0\TongmangKhongDeQui.csproj.CoreCompileInputs.cache
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\obj\Debug\net8.0\TongmangKhongDeQui.dll
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\obj\Debug\net8.0\refint\TongmangKhongDeQui.dll
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\obj\Debug\net8.0\TongmangKhongDeQui.pdb
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\obj\Debug\net8.0\TongmangKhongDeQui.genruntimeconfig.cache
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\KhongDeQui\TongmangKhongDeQui\TongmangKhongDeQui\obj\Debug\net8.0\ref\TongmangKhongDeQui.dll

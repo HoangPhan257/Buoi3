@@ -1,0 +1,14 @@
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\net8.0\TimKiemNhiPhan.exe
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\net8.0\TimKiemNhiPhan.deps.json
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\net8.0\TimKiemNhiPhan.runtimeconfig.json
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\net8.0\TimKiemNhiPhan.dll
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\net8.0\TimKiemNhiPhan.pdb
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.AssemblyInfoInputs.cache
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.AssemblyInfo.cs
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.csproj.CoreCompileInputs.cache
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.dll
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\refint\TimKiemNhiPhan.dll
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.pdb
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.genruntimeconfig.cache
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\ref\TimKiemNhiPhan.dll

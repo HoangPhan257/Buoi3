@@ -1,0 +1,14 @@
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\bin\Debug\net8.0\TongMangDeQui.exe
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\bin\Debug\net8.0\TongMangDeQui.deps.json
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\bin\Debug\net8.0\TongMangDeQui.runtimeconfig.json
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\bin\Debug\net8.0\TongMangDeQui.dll
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\bin\Debug\net8.0\TongMangDeQui.pdb
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\obj\Debug\net8.0\TongMangDeQui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\obj\Debug\net8.0\TongMangDeQui.AssemblyInfoInputs.cache
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\obj\Debug\net8.0\TongMangDeQui.AssemblyInfo.cs
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\obj\Debug\net8.0\TongMangDeQui.csproj.CoreCompileInputs.cache
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\obj\Debug\net8.0\TongMangDeQui.dll
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\obj\Debug\net8.0\refint\TongMangDeQui.dll
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\obj\Debug\net8.0\TongMangDeQui.pdb
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\obj\Debug\net8.0\TongMangDeQui.genruntimeconfig.cache
+C:\Users\Thanh_Hoang\Desktop\Phân Tích và thiết kế thuật toán\Buoi3\TongMang\DeQui\TongMangDeQui\TongMangDeQui\obj\Debug\net8.0\ref\TongMangDeQui.dll
